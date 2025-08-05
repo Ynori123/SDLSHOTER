@@ -5,3 +5,4 @@ build/
 # 排除可执行文件
 *.exe
 *.dll
+*.pdb

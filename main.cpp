@@ -11,6 +11,6 @@ int main(int argc, char *argv[]) {
     Game &game = Game::getInstance();
     game.init(); // 初始化游戏
     game.run();
-    
+
     return 0;
 }
